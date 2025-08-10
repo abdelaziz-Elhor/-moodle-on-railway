@@ -1,1 +1,1 @@
-# -moodle-on-railway
+# Magic LMS Demo
